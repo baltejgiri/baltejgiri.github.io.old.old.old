@@ -9,3 +9,5 @@ Cisco Systems is my choice of vendor to follow their curriculum to assess my kno
 I am a big advocate for Open Source, I use Linux based Operating Systems, Applications or software’s to home lab or run home network solution like pfSense for firewall, Raspberry Pi (pi-OS) for DNS and so on.
 
 Idea to have this blog post, to store the documentations of home labs and connect with like-minded individuals to grow professionally. Once again, I thank you for taking time to be here and I stay connected with me I am always available on Networking Community called [The Art of Network Engineering](https://artofnetworkengineering.com/) through their discord group.
+
+Over the next few weeks I will be finishing a portfolio github page website using a template. Trust me, this is a very first steps for me to dig into some web development side. So stay tuned! :)
