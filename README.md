@@ -1,6 +1,6 @@
 # Hello World
 
-Myself Baltej Giri and I am born and raise in Northern India; I moved to New Zealand after completing high school in India for higher education. I welcome you to my portfolio where I showcase my unique journey to be a Computer Networking Expert.
+Myself Baltej Giri and I am born and raise in Northern India; I moved to New Zealand after completing high school in India for higher education. I and my wife moved to Canada since 2016. I would like to welcome you to my portfolio where I showcase my unique journey to be a Computer Networking Expert.
 
 I am enthusiastic about in all things about computers and networks. I have five years of experience in Information Technology with excellent communication skills.
 
